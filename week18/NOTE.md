@@ -1,9 +1,11 @@
 学习笔记
 
 安装nodejs
- 	sudo apt install nodejs
+
+	sudo apt install nodejs
 
 安装npm
+
 	sudo apt install npm
 
 
